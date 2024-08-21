@@ -4,7 +4,4 @@
 - 🌱 I’m currently diving deeper into serverless architecture and containerization.
 - 💬 I love to share knowledge on cloud infrastructure, software development, and best practices in DevOps.
 - 💞️ I’m looking to collaborate on open-source projects, particularly those involving cloud technologies and microservices.
-- 📫 How to reach me: hi@rezmoss.com 
-- 🌍 Based in Canada
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I’m not coding, you’ll find me exploring the outdoors or tinkering with IoT projects!
