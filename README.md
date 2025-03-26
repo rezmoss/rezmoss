@@ -1,4 +1,5 @@
-👋 Rez Moss here.
+👋 Rez Moss here
+
 I’ve been building in tech for over two decades — not just writing code, but architecting systems, scaling businesses, mentoring teams, and solving real-world problems with cloud-native solutions.
 
 - 💼 Tech Strategist & Systems Architect – I design and build scalable, cloud-based platforms using Golang, Node.js, and AWS.
