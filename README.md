@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Rez Moss
-- 🚀 I’m a Golang & Node.js Developer with 10+ years of experience in cloud and server architecture, specializing in AWS and DevOps.
-- 🛠️ I’m passionate about building scalable online businesses, cloud solutions, and microservices.
-- 🌱 I’m currently diving deeper into serverless architecture and containerization.
-- 💬 I love to share knowledge on cloud infrastructure, software development, and best practices in DevOps.
-- 💞️ I’m looking to collaborate on open-source projects, particularly those involving cloud technologies and microservices.
-- ⚡ Fun fact: When I’m not coding, you’ll find me exploring the outdoors or tinkering with IoT projects!
+👋 Rez Moss here.
+I’ve been building in tech for over two decades — not just writing code, but architecting systems, scaling businesses, mentoring teams, and solving real-world problems with cloud-native solutions.
+
+💼 Tech Strategist & Systems Architect – I design and build scalable, cloud-based platforms using Golang, Node.js, and AWS.
+🛠️ Builder at Heart – From early startups to large-scale systems, I’ve led engineering efforts that power serious production workloads.
+📈 Beyond Dev – I think in terms of systems, products, and people. Whether it’s DevOps pipelines or business outcomes, I connect the dots.
+🌍 Mentor & Collaborator – I guide devs, contribute to open-source, and love helping others grow in cloud infrastructure and software craft.
+🔭 Always Evolving – Lately exploring serverless, container orchestration, and IoT — blending cloud with the physical world.
+🏕️ Offline? Probably off-grid, prototyping something weird with sensors, or recharging outdoors.
