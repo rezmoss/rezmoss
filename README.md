@@ -1,5 +1,3 @@
-# Rez Moss
-
 I've spent over two decades in technology, building and scaling platforms that serve real users and real businesses. My work sits at the intersection of systems architecture, security, and engineering leadership.
 
 ### What I Do
