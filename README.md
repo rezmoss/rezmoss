@@ -32,4 +32,4 @@ More at [rezmoss.com/blog](https://rezmoss.com/blog)
 
 ### Book
 
-I wrote [**Go at Scale: Patterns for Professional Development**](https://www.amazon.com/Go-Scale-Patterns-Professional-Development/dp/1069363006) — 528 pages on production-grade Go patterns covering concurrency, microservices, event-driven architecture, and more. Companion code is [here](https://github.com/rezmoss/go-at-scale)
+I wrote [**Go at Scale: Patterns for Professional Development**](https://www.amazon.com/Go-Scale-Patterns-Professional-Development/dp/1069363006) on Go patterns covering concurrency, microservices, event-driven architecture, and more. Companion code is [here](https://github.com/rezmoss/go-at-scale)
