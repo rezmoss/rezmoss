@@ -15,6 +15,8 @@ I build tools, write about what I learn, and maintain open-source projects in th
 |---------|-------------|
 | [sbomlyze](https://github.com/rezmoss/sbomlyze) | SBOM analysis & diff for supply-chain security |
 | [axios4go](https://github.com/rezmoss/axios4go) | Axios-inspired HTTP client for Go |
+| [go-is-disposable-email](https://github.com/rezmoss/go-is-disposable-email) | A high-performance Go package for detecting disposable/temporary email addresses |
+| [go-cloudip](https://github.com/rezmoss/go-cloudip) | Fast cloud provider IP detection for Go |
 | [simple-load-balancer](https://github.com/rezmoss/simple-load-balancer) | HTTP load balancer in Go using only stdlib |
 | [cloud-provider-ip-addresses](https://github.com/rezmoss/cloud-provider-ip-addresses) | Daily-updated IP ranges for AWS, GCP, Azure, Cloudflare |
 | [awesome-security-pipeline](https://github.com/rezmoss/awesome-security-pipeline) | Curated security tools organized by CI/CD stage |
