@@ -13,22 +13,30 @@ I build tools, write about what I learn, and maintain open-source projects in th
 
 | Project | What it does |
 |---------|-------------|
-| [sbomlyze](https://github.com/rezmoss/sbomlyze) | SBOM analysis & diff for supply-chain security |
-| [axios4go](https://github.com/rezmoss/axios4go) | Axios-inspired HTTP client for Go |
-| [go-is-disposable-email](https://github.com/rezmoss/go-is-disposable-email) | A high-performance Go package for detecting disposable/temporary email addresses |
-| [go-cloudip](https://github.com/rezmoss/go-cloudip) | Fast cloud provider IP detection for Go |
-| [simple-load-balancer](https://github.com/rezmoss/simple-load-balancer) | HTTP load balancer in Go using only stdlib |
-| [cloud-provider-ip-addresses](https://github.com/rezmoss/cloud-provider-ip-addresses) | Daily-updated IP ranges for AWS, GCP, Azure, Cloudflare |
-| [awesome-security-pipeline](https://github.com/rezmoss/awesome-security-pipeline) | Curated security tools organized by CI/CD stage |
-| [network-vulnerability-scanner](https://github.com/rezmoss/network-vulnerability-scanner) | Network vuln scanner built from scratch in Go |
+| [cloud-provider-ip-addresses](https://github.com/rezmoss/cloud-provider-ip-addresses) | Daily-updated IP ranges for 35+ providers (AWS, Azure, GCP, Cloudflare, GitHub, Fastly,
+Linode + GoogleBot/BingBot/GPTBot) in 12+ formats |
+| [sbomlyze](https://github.com/rezmoss/sbomlyze) | SBOM comparison & diff to detect supply-chain tampering and drift in CI |
+| [axios4go](https://github.com/rezmoss/axios4go) | Axios-inspired HTTP client for Go — interceptors, automatic retries |
+| [go-cloudip](https://github.com/rezmoss/go-cloudip) | Sub-microsecond cloud provider IP detection for Go |
+| [js-cloudip](https://github.com/rezmoss/js-cloudip) | Sub-millisecond cloud provider detection for Node.js & the browser |
+| [py-cloudip](https://github.com/rezmoss/py-cloudip) | Fast, auto-updating cloud provider IP detection for Python |
+| [ip-watch](https://github.com/rezmoss/ip-watch) | Auto-applies cloud provider IP ranges to nginx, caddy, haproxy & firewalls |
+| [go-is-disposable-email](https://github.com/rezmoss/go-is-disposable-email) | High-performance Go package for detecting disposable/temporary email addresses |
+| [simple-load-balancer](https://github.com/rezmoss/simple-load-balancer) | HTTP load balancer in Go using only the standard library |
+| [awesome-security-pipeline](https://github.com/rezmoss/awesome-security-pipeline) | Curated security tools organized by CI/CD pipeline stage |
+
+> The **cloudip** family ([go](https://github.com/rezmoss/go-cloudip) · [js](https://github.com/rezmoss/js-cloudip) · [py](https://github.com/rezmoss/py-cloudip)) shares one
+  daily-updated source of truth: [cloud-provider-ip-addresses](https://github.com/rezmoss/cloud-provider-ip-addresses).
 
 ### Recent Writing
 
-- [Beyond Vulnerability Scanning, How SBOM Diff Exposes Shadow Dependencies in Your Supply Chain](https://dev.to/rezmoss/beyond-vulnerability-scanning-how-sbom-diff-exposes-shadow-dependencies-in-your-supply-chain-1m6k)
-- [How to Compare Container SBOMs and Detect Drift](https://rezmoss.com/blog/compare-container-sbom-detect-drift-image-versions/)
+- [Build a Live Goroutine Visualizer in Go: Detect Leaks in Any Running Process](https://rezmoss.com/blog/build-live-goroutine-visualizer-leak-detector-go/)
+- [How to Compare Container SBOMs and Detect Drift Between Image Versions](https://rezmoss.com/blog/compare-container-sbom-detect-drift-image-versions/)
+- [Beyond Vulnerability Scanning: How SBOM Diff Exposes Shadow Dependencies in Your Supply
+  Chain](https://dev.to/rezmoss/beyond-vulnerability-scanning-how-sbom-diff-exposes-shadow-dependencies-in-your-supply-chain-1m6k)
+- [Inside Go's strconv — a 7-part deep dive](https://rezmoss.com/blog/basic-conversions-atoi-and-itoa-p1-7/) (Atoi/Itoa through quoting & character utilities)
 - [macOS Hardware Detection with Go](https://rezmoss.com/blog/macos-hardware-detection-with-go/)
 - [Build a Terminal System Monitor in Go](https://rezmoss.com/blog/building-terminal-system-monitor-golang/)
-- [Zero-Config Service Discovery in Go](https://rezmoss.com/blog/zero-configuration-service-discovery-system-go/)
 
 More at [rezmoss.com/blog](https://rezmoss.com/blog)
 
