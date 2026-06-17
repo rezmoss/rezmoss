@@ -13,8 +13,7 @@ I build tools, write about what I learn, and maintain open-source projects in th
 
 | Project | What it does |
 |---------|-------------|
-| [cloud-provider-ip-addresses](https://github.com/rezmoss/cloud-provider-ip-addresses) | Daily-updated IP ranges for 35+ providers (AWS, Azure, GCP, Cloudflare, GitHub, Fastly,
-Linode + GoogleBot/BingBot/GPTBot) in 12+ formats |
+| [cloud-provider-ip-addresses](https://github.com/rezmoss/cloud-provider-ip-addresses) | Daily-updated IP ranges for 35+ providers (AWS, Azure, GCP, Cloudflare, GitHub, Fastly,Linode + GoogleBot/BingBot/GPTBot) in 12+ formats |
 | [sbomlyze](https://github.com/rezmoss/sbomlyze) | SBOM comparison & diff to detect supply-chain tampering and drift in CI |
 | [axios4go](https://github.com/rezmoss/axios4go) | Axios-inspired HTTP client for Go — interceptors, automatic retries |
 | [go-cloudip](https://github.com/rezmoss/go-cloudip) | Sub-microsecond cloud provider IP detection for Go |
