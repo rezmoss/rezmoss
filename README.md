@@ -51,6 +51,10 @@ I also wrote [**Go at Scale**](https://www.amazon.com/Go-Scale-Patterns-Professi
 - 🕰️ [**CityChime**](https://github.com/rezmoss/citychime): a small macOS city-hall clock app I built to learn Go.
 - 💡 [**virtual-light**](https://github.com/rezmoss/virtual-light): control a virtual Go light from Apple's Home app through HomeKit.
 - 🏊 [**Pool Water Planner**](https://rezmoss.com/tools/pool-water-planner/): a browser-based pool chemistry calculator, built for my own pool rather than a product roadmap.
+- 🧹 [**diskfree**](https://github.com/rezmoss/diskfree): an APFS-aware Go disk scanner that finds what is really consuming space—including sparse files, rebuildable caches, and Time Machine snapshots—and lets you clean it up interactively
+- 📐 [**MyMeasure**](https://github.com/rezmoss/mymeasure): iOS experiment that earned a permanent place on my phone—and a few friends' phones—for LiDAR measurements, photo annotations, and 2D/3D room scans
+- 🗺️ [**MyExplore**](https://github.com/rezmoss/myexplore): iPhone experiment that turns everyday movement into a private fog-of-war game—walk or drive to reveal the map while every breadcrumb stays offline on your phone
+- 🏠 [**MyHouse**](https://github.com/rezmoss/myhouse): the iPhone app I built to remember how my own house works—what needs maintenance, where the shutoffs are, which contractor fixed what, and when appliances may need replacing
 
 [Browse all repositories, newest activity first →](https://github.com/rezmoss?tab=repositories&q=&type=source&language=&sort=updated)
 
