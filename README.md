@@ -2,7 +2,7 @@
 
 I build security and infrastructure tools, take Go systems apart to see how they work, and publish the useful pieces.
 
-Right now I lead VM scanning at [Aikido Security](https://github.com/AikidoSec), build products at [CloudAid](https://www.cloudaid.net), and contribute o [Syft](https://github.com/anchore/syft/)
+Right now I lead VM scanning at [Aikido Security](https://github.com/AikidoSec), build products at [CloudAid](https://www.cloudaid.net), and contribute to [Syft](https://github.com/anchore/syft/)
 
 I also wrote [**Go at Scale**](https://www.amazon.com/Go-Scale-Patterns-Professional-Development/dp/1069363006), 528 pages on building production Go systems.
 
