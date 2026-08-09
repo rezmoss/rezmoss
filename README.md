@@ -19,7 +19,7 @@ I also wrote [**Go at Scale**](https://www.amazon.com/Go-Scale-Patterns-Professi
 ## Open-source workshop
 
 ### Security & software supply chain
-- 🛡️ **Security research**: sometimes I dig through open-source Go projects for security flaws and responsibly report what I find [Published advisories →](https://github.com/advisories?query=credit%3Arezmoss)
+- 🛡️ **Security research**: sometimes I dig through open-source Go projects for security flaws and responsibly report what I find [Published advisories](https://github.com/advisories?query=credit%3Arezmoss)
 - 🧾 [**sbomlyze**](https://github.com/rezmoss/sbomlyze): compare SBOMs, detect same-version/different-hash tampering, and gate CI with human, JSON, or SARIF output.
 - 🧰 [**Awesome Security Pipeline**](https://github.com/rezmoss/awesome-security-pipeline): CI-tested open-source controls organized into a practical GitHub Actions security pipeline.
 - 🕸️ [**Network Vulnerability Scanner**](https://github.com/rezmoss/network-vulnerability-scanner): an educational Go build covering port scanning, service detection, and vulnerability identification.
