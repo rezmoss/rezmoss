@@ -36,6 +36,7 @@ I also wrote [**Go at Scale**](https://www.amazon.com/Go-Scale-Patterns-Professi
 - 💸 [**CostSweep**](https://github.com/rezmoss/costsweep): find and price AWS waste, print the annual total, and fail CI above a budget threshold; read the [three-part build log](https://dev.to/aws-builders/i-built-a-go-tool-that-found-4200yr-of-wasted-aws-spend-cost-explorer-api-part-1-326a).
 - 🔭 [**real-time-system-monitor**](https://github.com/rezmoss/real-time-system-monitor): a terminal dashboard for CPU, memory, network activity, and hungry processes.
 - 📡 [**Zero-configuration service discovery**](https://github.com/rezmoss/zero-configuration-service-discovery-system): a small Go implementation for learning how services find one another without a central registry.
+- ⚡ [**Reverse Cache Proxy**](https://github.com/rezmoss/reverse-cache-proxy): a small Go reverse proxy I built to explore HTTP caching—TTL expiration, size-aware eviction, compression negotiation, Cache-Control rules, and live hit/miss stats
 
 ### Go libraries, diagnostics & learning builds
 
