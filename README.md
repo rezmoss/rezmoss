@@ -12,7 +12,6 @@ I also wrote [**Go at Scale**](https://www.amazon.com/Go-Scale-Patterns-Professi
 
 - ☁️ [**CLOUD-IP**](https://cloudipdb.io): a daily-refreshed map of 63 cloud, CDN, SaaS, VPN, and crawler networks; 460K+ CIDRs with ready-to-use firewall formats.
 - 🔎 [**sbomlyze**](https://github.com/rezmoss/sbomlyze): `git diff` for SBOMs; catch dependency, metadata, and package-integrity drift in CycloneDX, SPDX, and Syft documents.
-- 🤖 [**Brainmox**](https://brainmox.com): a local-first AI professional with persistent memory, desktop tools, multiple channels, and an inspectable audit trail. In private beta.
 - 📘 [**Go at Scale**](https://rezmoss.com/go-at-scale/): production patterns for concurrency, microservices, event-driven systems, observability, and testing, with [companion code](https://github.com/rezmoss/go-at-scale).
 - 🧪 [**The workshop below**](#open-source-workshop): small CLIs, learning builds, browser tools, macOS experiments, and libraries. Pick a rabbit hole.
 
@@ -78,7 +77,6 @@ I write implementation-focused series: **50+ articles on DEV**, plus field notes
 ## Products beyond the repositories
 
 - ☁️ [**CloudAid**](https://www.cloudaid.net): the cloud and DevOps company I founded in 2020.
-- 🤖 [**Brainmox**](https://brainmox.com): local-first AI professionals with persistent identity, memory, tools, and privacy controls.
 - 📞 [**PBXDom**](https://www.pbxdom.com): the call-analytics platform I launched in 2015; it has analyzed 14B+ calls for 500+ companies.
 - 🧰 [**HTTPfy**](https://httpfy.io): 40+ small browser tools for networking, DNS, security, data conversion, and everyday DevOps work.
 - 📈 [**StatusAid**](https://statusaid.com): website health monitoring across DNS, TLS, servers, email, performance, and content integrity.
