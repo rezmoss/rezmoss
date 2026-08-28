@@ -56,7 +56,7 @@ I also wrote [**Go at Scale**](https://www.amazon.com/Go-Scale-Patterns-Professi
 - 🗺️ [**MyExplore**](https://github.com/rezmoss/myexplore): iPhone experiment that turns everyday movement into a private fog-of-war game—walk or drive to reveal the map while every breadcrumb stays offline on your phone
 - 🏠 [**MyHouse**](https://github.com/rezmoss/myhouse): the iPhone app I built to remember how my own house works—what needs maintenance, where the shutoffs are, which contractor fixed what, and when appliances may need replacing
 
-[Browse all repositories, newest activity first →](https://github.com/rezmoss?tab=repositories&q=&type=source&language=&sort=updated)
+[Browse all repositories, newest activity first](https://github.com/rezmoss?tab=repositories&q=&type=source&language=&sort=updated)
 
 ## Reading trails
 
